@@ -284,7 +284,7 @@ const styles = StyleSheet.create({
   },
   input: {
     flex: 1,
-    backgroundColor: '#A5A8B0',
+    backgroundColor: '#0A0B0D',
     borderRadius: 12,
     paddingHorizontal: 14,
     paddingVertical: 12,
